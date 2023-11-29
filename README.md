@@ -2,10 +2,10 @@
 
 Selamat datang! Repository ini berisi file pembelajaran modules di bahasa pemrograman Go (Golang). Repository ini dibuat untuk dokumentasi pembelajaran saya yang memulai perjalanan dalam mempelajari bahasa Go (Golang).
 
-[//]: # (## Apa yang dipelajari?)
+## Apa yang dipelajari?
 
-[//]: # ()
-[//]: # (1. **[fmt]&#40;https://pkg.go.dev/fmt&#41;**)
+
+1. **membuat modul**
 
 ## Sumber Daya Eksternal
 
